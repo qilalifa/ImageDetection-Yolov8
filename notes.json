@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Batu"
+    },
+    {
+      "id": 1,
+      "name": "Gunting"
+    },
+    {
+      "id": 2,
+      "name": "Kertas"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
